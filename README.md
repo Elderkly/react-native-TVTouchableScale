@@ -1,7 +1,5 @@
 # react-native-TVTouchableScale
-一款纯JS开发的react-native TV端触控组件   
-
-[示例](https://github.com/Elderkly/react-native-TVTouchableScale/tree/master/example)     
+一款纯JS开发的react-native TV端触控组件     
 
 <div align=center><img src="https://github.com/Elderkly/ImgRepository/blob/master/react-native-TVTouchableScale/QQ20200526-153414-HD.gif?raw=true"/></div>      
 
@@ -28,7 +26,9 @@ export default function(props) {
         </TVTouchableScale>
     )
 }
-```
+```    
+
+[示例](https://github.com/Elderkly/react-native-TVTouchableScale/tree/master/example)   
 
 ## API
 |Prop|Type|Description|Default|
