@@ -1,5 +1,9 @@
 # react-native-TVTouchableScale
-一款纯JS开发的react-native TV端触控组件
+一款纯JS开发的react-native TV端触控组件   
+
+[示例](https://github.com/Elderkly/react-native-TVTouchableScale/tree/master/example)     
+
+![Demo](https://github.com/Elderkly/ImgRepository/blob/master/react-native-TVTouchableScale/QQ20200526-153414-HD.gif)     
 
 ##  如何安装
 ```
