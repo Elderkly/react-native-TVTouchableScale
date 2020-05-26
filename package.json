@@ -1,6 +1,6 @@
 {
   "name": "react-native-tvtouchablescale",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "一款纯JS开发的react-native TV端触控组件",
   "main": "index.js",
   "scripts": {
