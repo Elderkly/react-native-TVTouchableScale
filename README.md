@@ -26,7 +26,7 @@ export default function(props) {
 }
 ```
 
-## Api
+## API
 |Prop|Type|Description|Default|
 |:---|:---|:---|:---|
 |style|Object|样式|true||
