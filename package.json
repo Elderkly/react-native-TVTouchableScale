@@ -1,0 +1,19 @@
+{
+  "name": "react-native-tvtouchablescale",
+  "version": "1.0.1",
+  "description": "一款纯JS开发的react-native TV端触控组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elderkly/react-native-TVTouchableScale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elderkly/react-native-TVTouchableScale/issues"
+  },
+  "homepage": "https://github.com/Elderkly/react-native-TVTouchableScale#readme"
+}
