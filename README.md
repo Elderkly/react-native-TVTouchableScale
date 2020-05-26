@@ -3,7 +3,7 @@
 
 ##  如何安装
 ```
-yarn add react-native
+yarn add react-native-tvtouchablescale
 ```
 or   
 ```
