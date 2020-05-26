@@ -3,7 +3,7 @@
 
 [示例](https://github.com/Elderkly/react-native-TVTouchableScale/tree/master/example)     
 
-![Demo](https://github.com/Elderkly/ImgRepository/blob/master/react-native-TVTouchableScale/QQ20200526-153414-HD.gif)     
+<div align=center><img src="https://github.com/Elderkly/ImgRepository/blob/master/react-native-TVTouchableScale/QQ20200526-153414-HD.gif?raw=true"/></div>      
 
 ##  如何安装
 ```
