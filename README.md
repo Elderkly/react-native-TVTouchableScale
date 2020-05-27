@@ -1,4 +1,4 @@
-# react-native-TVTouchableScale
+# TVTouchableScale
 一款纯JS开发的react-native TV端触控组件     
 
 <div align=center><img src="https://github.com/Elderkly/ImgRepository/blob/master/react-native-TVTouchableScale/QQ20200526-153414-HD.gif?raw=true"/></div>      
