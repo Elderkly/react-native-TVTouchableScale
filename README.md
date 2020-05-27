@@ -50,4 +50,4 @@ export default function(props) {
 ## LICENSE
 
 react-native-tvtouchablescale is open source software licensed as
-[MIT.](https://github.com/Elderkly/react-native-tvtouchablescale/LICENSE.md)
+[MIT.](https://github.com/Elderkly/react-native-tvtouchablescale/blob/master/LICENSE)
