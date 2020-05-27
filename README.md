@@ -45,4 +45,9 @@ export default function(props) {
 |prohibitTarget|Array|指定特定方向聚焦的Dom||
 |hideDisabledAnimation|Boolean|是否去除抖动动画||
 |eventHandler|Function|监听遥控器事件||
-|eventDisabled|Function|监听触发禁用方向事件||
+|eventDisabled|Function|监听触发禁用方向事件||    
+
+## LICENSE
+
+react-native-tvtouchablescale is open source software licensed as
+[MIT.](https://github.com/Elderkly/react-native-tvtouchablescale/LICENSE.md)
